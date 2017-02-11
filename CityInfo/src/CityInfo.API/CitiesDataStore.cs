@@ -27,13 +27,13 @@ namespace CityInfo.API
                         {
                             Id = 1,
                             Name = "Central Park",
-                            Desctiption = "The most visited urban park in the United States."
+                            Description = "The most visited urban park in the United States."
                         },
                         new PointOfInterestDto()
                         {
                             Id = 2,
                             Name = "Empire State Building",
-                            Desctiption = "A 102-story skyscraper located in Midtown Manhattan."
+                            Description = "A 102-story skyscraper located in Midtown Manhattan."
                         }
                     }
                 },
@@ -48,13 +48,13 @@ namespace CityInfo.API
                         {
                             Id = 4,
                             Name = "Cathedral of Our Lady",
-                            Desctiption = "A gothin style cathedral, conceived by architects Jan and Pieter Appelmans."
+                            Description = "A gothin style cathedral, conceived by architects Jan and Pieter Appelmans."
                         },
                         new PointOfInterestDto()
                         {
                             Id = 4,
                             Name = "Antwerp Central Station",
-                            Desctiption = "The finest example of railway architecture in Belgium."
+                            Description = "The finest example of railway architecture in Belgium."
                         }
                     }
                 },
@@ -69,13 +69,13 @@ namespace CityInfo.API
                         {
                             Id = 5,
                             Name = "Eiffel Tower",
-                            Desctiption = "A wroughtiron lattic tower on the Champ de Mars."
+                            Description = "A wroughtiron lattic tower on the Champ de Mars."
                         },
                         new PointOfInterestDto()
                         {
                             Id = 6,
                             Name = "The Louvre",
-                            Desctiption = "The world's largest museum."
+                            Description = "The world's largest museum."
                         }
                     }
                 }
